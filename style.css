@@ -1,0 +1,26 @@
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  hi {
+      margin-bottom:3rem ;
+  }
+  .main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .opt-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5rem;
+    width: 100%;
+  }
+  .next-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
